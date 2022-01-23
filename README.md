@@ -39,10 +39,28 @@ Every aspect of your resume communicates a message to the interviewer. From the 
 3. A monochromatic color schemes is always a thumbs up.
 4. Subtly highlight any extraordinary achievement like AIR, National level awards etc.
  
-Review your resume and make the changes now.
-Save this post.
+9) Here are the rules of thumb:
 
-If you need assistance on career guidance, resume review, and interview preparation, feel free to book a 1:1 session (Refer to the link in the first comment).
+1-Page Resume:
+- Pre-Final/Final Year students applying for internships/jobs.
+- Graduates applying for Off-Campus opportunities.
+- Must for "Management Consulting" enthusiasts.
+- Professionals between 1 to 10 years of work experience.
+
+2-Page Resume:
+- For professionals with relevant experience of 10 years & above.
+- For senior-level managers or executives.
+
+3-Page Resume:
+- Must Include 1st page as Cover Letter.
+
+Nonetheless, Most resumes can be condensed into one page.
+The key is to keep it as short and crisp as possible without losing the essential details. Use CAR or STAR Approach.
+Sometimes the formatting isn't right, and other times there are more irrelevant details.
+I know the 2-month NGO community work, consulting internships, and various live projects helped you build interpersonal skills but does it need 5-6 points?
+If it's exceeding 1 page, then make it worth page-turning to condense up to a single page.
+
+Constantly ask yourself, does this add value?
 
 sources : 
 1. [priyank_ahuja_linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6890922573874503680/)
