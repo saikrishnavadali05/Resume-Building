@@ -44,4 +44,6 @@ Save this post.
 
 If you need assistance on career guidance, resume review, and interview preparation, feel free to book a 1:1 session (Refer to the link in the first comment).
 
-source : [priyank_ahuja_linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6890922573874503680/)
+sources : 
+1. [priyank_ahuja_linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6890922573874503680/)
+2. [complete_pdf](https://github.com/saikrishnavadali05/Resume-Building/blob/master/do's_dont's_resume_building.pdf)
